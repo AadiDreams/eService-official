@@ -2,10 +2,29 @@
     margin: 0;
     padding: 0 auto;
 }
+body{
+    background-color: #223a7a;
+    color:#fff;
+}
+.main{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
 fieldset{
-    display: flex;
-    flex-direction: column;
-    width: 500px;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    width: 400px;
+    border: 3px solid #fff;
+}
+legend{
+    text-align: center;;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.contact{
+    color: #00ff00;
+}
+hr{
+    border: .5px solid #fff;
 }
