@@ -9,3 +9,17 @@
     background-color: #223a7a;
     color: #fff;
 }
+.nav{
+    display: flex;
+    gap:50px;
+    justify-content: center;
+    align-items: center;
+}
+.header li{
+    list-style-type: none;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16pt;
+}
