@@ -25,6 +25,7 @@
     font-size: 16pt;
     padding: 10px;
     border-radius: .5em;
+    cursor: pointer;
 }
 .header li:hover{
     background-color: #fff;
