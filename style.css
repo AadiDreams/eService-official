@@ -31,6 +31,10 @@
     background-color: #fff;
     color:#223a7a;
 }
+a{
+    text-decoration: none;
+    color: #fff;
+}
 .main{
     height:100vh;
     display:flex;
