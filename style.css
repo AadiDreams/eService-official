@@ -47,8 +47,12 @@ a{
     padding: 20px;
     justify-content: flex-start;
     align-items: flex-start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.left p{
+    font-size: 14pt;
+    text-align: justify;
+}
 .right img{
     width:40em;
 }
@@ -60,4 +64,7 @@ a{
     justify-content: center;
     align-items: center;
     color: #fff;
+}
+.clr{
+    color:#223a7a
 }
