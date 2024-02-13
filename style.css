@@ -68,3 +68,11 @@ a{
 .clr{
     color:#223a7a
 }
+.dey{
+    float: left;
+    height:100px;
+    width:100px;
+    border-radius: 5px;
+    margin: 5px;
+    border: 2px solid #808080;
+}
