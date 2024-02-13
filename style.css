@@ -76,3 +76,12 @@ a{
     margin: 5px;
     border: 2px solid #808080;
 }
+@media(max-width:650px){
+    .left{
+        max-width:100%;
+        padding: 40px;
+    }
+    .right img{
+        width:20em;
+    }
+}
