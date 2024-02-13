@@ -36,14 +36,21 @@ a{
     color: #fff;
 }
 .main{
-    height:100vh;
+    min-height: 100vh;
     display:flex;
     flex-wrap:wrap;
     justify-content:space-around;
     align-items:center;
 }
 .left{
-    
+    max-width: 50%;
+    padding: 20px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.right img{
+    width:40em;
 }
 .footer{
     bottom:0px;
